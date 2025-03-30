@@ -1,0 +1,15 @@
+
+collaboration is the key to team work.
+for smaller teams, this consists of a feedback loop.
+
+for bigger projects however, creating that loop is exteremly hard,
+huge projects these days have tight sequules, short deadlines, hard requirements and lots of work.
+
+for example, linux kernel had a average commit per day of ~250 during recent years,
+as another example, chromium browser engine had a average of ~300 commits per day in the 2024 year, growing to ~330 in first quater of 2025.
+
+this begs the question, how could they collabrate effecitvely in such a workflow, with lots of contributers, changes and challenges?
+
+answer is tools and methodology, these go hand in hand.
+in this, and next few presentions we focus on tools that make that possible,
+namely issue trackers, version control software and devops tools.
