@@ -4,6 +4,7 @@
 >- learning how to wrok with jira and agile concepts ✅
 >- learning how to wrok with trello  ✅
 >- adding mind maps ✅ 
+>- created features and compresions about jira trello git(hub and labs) issues 
 
 ## BOB Story  
 ### Intro : 
