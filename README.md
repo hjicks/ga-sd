@@ -12,7 +12,11 @@ This is Bob.
 
 Bob is a developer. Bob’s team is *why HR exists.*  
 
+<<<<<<< HEAD
 ### Bob's Nightmare :  
+=======
+### Bob’s Team of Misfit Toys:  
+>>>>>>> master
 - Alice – Treats UI design like therapy. *"Does this dropdown *spark joy*?"*  
 - Dave – Codes like he’s being chased. *"Works fine!"* (*Server is on fire*)  
 - Carol –  found bugs in the README file . *sometimes in text files*  
