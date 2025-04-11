@@ -35,11 +35,13 @@ their next release:
 - and a lot more features
 
 # Story time
-Not all gone well however
+Not all gone well however.
 they missed their first deadline from 2002,
 then once again in 2004, 2005 and 2006.
 
-the company was microsoft, the software was windows vista.
+It cost 120 billion dollars. ([source](https://news.softpedia.com/news/Windows-Vista-the-120-Billion-Operating-System-54843.shtml))
+
+The company was microsoft, and the software was Windows vista.
 
 ---
 
