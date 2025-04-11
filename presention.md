@@ -46,9 +46,12 @@ the company was microsoft, the software was windows vista.
 # what gone wrong?
 @(layout=centered)
 
-
 # Table of contents
-TODO
+
+- History of issue trackers
+- Trello
+- Jira
+- Git{hub,lab}
 
 # What are issue trackers?
 TODO
@@ -91,6 +94,9 @@ TODO
 - Jira
 - Git{hub,lab}
 - Youtrack
+
+# Trello
+@(layout=centered)
 
 # Trello
 Enough with history now, there are three important project management tools that you might use:
