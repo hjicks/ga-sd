@@ -1,9 +1,11 @@
-## Welcome to Trello!
+# Welcome to Trello!
 
 Trello is the visual work management tool that empowers teams to ideate, plan, manage, and celebrate their work together in a collaborative, productive, and organized way
 
 
-![trello](https://images.ctfassets.net/rz1oowkt5gyp/6REfiXE44STV6MKHXJbyRr/9df1e38e1c2f876f7491c88693bfdcad/TrelloGuideChapter1.jpg?w=1920&fm=webp)
+![trello](./assets/img/welcome.png)
+
+![trello](./assets/img/login.png)
 
 
 ## What is a board? 
@@ -30,5 +32,41 @@ Trello is the visual work management tool that empowers teams to ideate, plan, m
 The menu is where you manage members' board permissions, control settings, search cards, enable Power-Ups, and create automations. You can also see all of the activity that has taken place on a board in the menu’s activity feed. Take some time to check out everything the menu has to offer.
 
 ![trello](https://images.ctfassets.net/rz1oowkt5gyp/4BSwU9OXElIA0ADMu3Yiwr/3deb2a26d6a874f33ac822cf02e6a24b/ch1_04.png?w=1920&fm=webp)
+
+
+#  Build your project in Trello
+
+## Create a board
+- From the team’s Workspace tab, click “Create new board” or click the plus button (+) in the Trello header directly to the left of your name, and select “Create Board”.
+
+- Name the board to represent whatever you are working on, from organizing an event or managing a blog, to tracking sales leads or launching a new product
+
+![trello](./assets/img/createBoard.png)
+
+
+**Your project data and information are your most valuable assets. As you work through creating a new Trello board, you will have options for adjusting your privacy settings.**
+
+
+- When you are creating a board, the default setting is **‘Workspace Visible’** which means any members of that Workspace can view, join, and edit cards.
+
+- If you change your settings to **Private**, only members of that specific board can see it. Typically, you want to default to Private if you are working on a more restrictive project and do not want other team members to access it. It is great for 1:1 boards, personal to do's boards or boards shared with customers.
+
+- **Public** boards allow anyone with the link to the board to see it. Public boards are ranked on search engines such as Google, meaning that any information on this specific board will be accessible to anyone on the internet. This setting can be used for a public project or for product roadmap that is open to public feedback. Just like other board settings, you can granularly choose who can comment, add or remove members, and edit and join the board
+
+![trello](/assets/img/security.png)
+
+## Customize your board
+
+No two workflows are alike, so why not give each board a unique look and feel? In the spirit of fun and flexibility, we let you customize your board background to reflect your team’s unique personality.
+
+![trello](/assets/img/customize.png)
+
+
+
+
+
+
+
+
 
 
