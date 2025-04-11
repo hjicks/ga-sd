@@ -4,7 +4,7 @@
 * issue trackers, what problem do they solve
 ** this is bob.png
 * common issue trackers
-* Terllo
+* Trello
 ** project managemnt with terllo
 ** cards and boards
 * Jira
