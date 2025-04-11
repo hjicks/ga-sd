@@ -88,4 +88,3 @@ Here are polished, presentation-ready slides for each tool with **intro**, **fea
 3. **Visual Flow**:  
    - Logo → Intro → Features (bullets) → Use case → Golden nugget  
 
-Need these as separate image files or PPT slides? I can provide downloadable links!
