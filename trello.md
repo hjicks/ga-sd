@@ -62,11 +62,31 @@ No two workflows are alike, so why not give each board a unique look and feel? I
 ![trello](/assets/img/customize.png)
 
 
+<!-- from now i just want explain from trello app or any other trackers -->
+<!-- i just put a image for it with no text -->
+
+## Start collaborating
+
+![tello](https://images.ctfassets.net/rz1oowkt5gyp/1BgUtnkTxBVVoUfX3Jqdc8/42a53221b4eb257a590516e69f3b77df/ch2_05.png?w=1920&fm=webp)
 
 
 
+## Set member permissions [Noramal , Admin , Observe]
+![trello](chap3-onboardteam-members_permissions-workspace.webp)
+
+## Build a workflow (Creating lists)
+
+![trello](https://images.ctfassets.net/rz1oowkt5gyp/2cOyllZzMqOgncBLIGTICZ/6eb874a0dded9a19440d0c55f9a63536/ch2_06.png?w=1920&fm=webp)
+
+## Add tasks and to-dos (Add a card)
+
+![trello](https://images.ctfassets.net/rz1oowkt5gyp/2STHuMuEJljoTmnHGOjWAB/35bdfe3e3e3b338eb523c8ad92cc2228/ch2_07.png?w=1920&fm=webp)
 
 
+## Get Specific On The Card Back 
 
+- A Card Descriptions
+- B Add
+- C Comments and Activity    
 
-
+![trello](https://images.ctfassets.net/rz1oowkt5gyp/28B113yjpmku2fCVAyHWAV/2c1d6dd54a4bf2e23f6d527eb39235b4/ch2_08.png?w=1920&fm=webp)
