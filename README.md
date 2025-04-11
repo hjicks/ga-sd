@@ -1,4 +1,18 @@
-# Issue trackers
+# what is this
+these are files for our presention of _software development_ class.
+
+# what can i do with these?
+dunno. you can build the presention if you'd like:
+```
+$ make setup
+$ make
+```
+this install required libraries and run a web server at `localhost:5500`, using `moffee` library.
+
+you can also generate static html files:
+```
+$ make html
+```
 ## agenda
 * introduction and agenda
 * issue trackers, what problem do they solve
