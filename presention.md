@@ -108,3 +108,21 @@ Enough with history now, there are three important project management tools that
 - Git{hub,lab}
 
 Obviously, there are other project management tools, but we cover these.
+
+# Jira
+@(layout=centered)
+
+---
+
+![jira is a crap, i'm sorry](img/meme.jpg)
+
+# Jira
+
+
+# Github and Gitlab
+@(layout=centered)
+
+
+---
+
+![none recalls the third one](img/meme.png)
