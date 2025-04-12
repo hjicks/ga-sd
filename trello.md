@@ -149,6 +149,40 @@ advanced checkboxes 🤮  -->
 ![trello structure image](https://images.ctfassets.net/rz1oowkt5gyp/392IllHhoXmgn5zYxPCLVJ/6d0e9951ba36651afd24fcefb3b8876c/Custom_Fields_Guide_Image_copy.png?w=1200&fm=webp)
 
 
+<!-- section 6 is gona be fucked up its about views and -->
+# section  6
 
+# Activate different views
+- Board view 
+
+![trello board view](https://images.ctfassets.net/rz1oowkt5gyp/3Fxf9mi4WJURVGCM1S284d/c85d75a8d3710d3f47ec441bc4ddb9e8/Chapter_5_-_Views_-_Board_view1.png?w=1110&fm=webp)
+- Table view
+
+![trello board view](c:\Users\batte\AppData\Local\Temp\Guide_Chapter_6_-_Table_View.webp)
+- Calendar view
+
+![trello board view](c:\Users\batte\AppData\Local\Temp\Guide_Chapter_6_-_Table_View.webp)
+
+- Timeline view
+
+![trello board view](https://images.ctfassets.net/rz1oowkt5gyp/01IbuGR7m36u5jcmjSyUii/f11822d488c318a0fd17c99056340641/Guide_Chapter_6_-_Timeline_View.png?w=2280&fm=webp)
+
+- Dashboard view
+
+![trello board view](https://images.ctfassets.net/rz1oowkt5gyp/5dUFbDmq2WPn7So7lo2YJf/1166fd93e7290a6673f574f53e3248fb/Chapter_5_-_Views_-_Dashboardview1.png?w=1439&fm=webp)
+
+- Map view
+
+![trello board view](https://images.ctfassets.net/rz1oowkt5gyp/2TfahgUkYlFD0EHg9gnfww/a886d8d3c785f51aa68cfea3740c65d3/Chapter_5_-_Views_-_Map_view1.png?w=1439&fm=webp)
+
+- Workspace views (table and calendar)
+
+**Workspace Table**
+![trello board view](https://images.ctfassets.net/rz1oowkt5gyp/5aIxrdGYx2lT5iLwATwKNH/f842a90570c4227b65b93dc52a799806/Guide_Chapter_6_-_Workspace_Table_View.png?w=2280&fm=webp)
+
+**Workspace Calendar**
+![trello board view](https://images.ctfassets.net/rz1oowkt5gyp/Drxaqw2YmEE7T2ePsIeCL/053c11a835e9c2d0841fa758823dfeb4/Guide_Chapter_6_-_Workspace_Calendar_View_copy.png?w=2280&fm=webp )
+
+**Feature focusa and great for what**
 
 
