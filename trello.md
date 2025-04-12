@@ -1,4 +1,5 @@
-# Welcome to Trello!
+# section 1 
+# Welcome to Trello! 
 
 Trello is the visual work management tool that empowers teams to ideate, plan, manage, and celebrate their work together in a collaborative, productive, and organized way
 
@@ -33,8 +34,8 @@ The menu is where you manage members' board permissions, control settings, searc
 
 ![trello menu image](https://images.ctfassets.net/rz1oowkt5gyp/4BSwU9OXElIA0ADMu3Yiwr/3deb2a26d6a874f33ac822cf02e6a24b/ch1_04.png?w=1920&fm=webp)
 
-
-#  Build your project in Trello
+# section 2
+#  Build your project in Trello 
 
 ## Create a board
 - From the team’s Workspace tab, click “Create new board” or click the plus button (+) in the Trello header directly to the left of your name, and select “Create Board”.
@@ -91,9 +92,11 @@ No two workflows are alike, so why not give each board a unique look and feel? I
 
 ![trello Get Specific image](https://images.ctfassets.net/rz1oowkt5gyp/28B113yjpmku2fCVAyHWAV/2c1d6dd54a4bf2e23f6d527eb39235b4/ch2_08.png?w=1920&fm=webp)
 
-
+# section 3 
 <!-- section 3 is in the game ?  -->
+we have a problem here
 
+# section 4 
 ## Integrate Trello with other apps
 
 - **PowerUps section para 2  explantion**
@@ -135,7 +138,15 @@ No two workflows are alike, so why not give each board a unique look and feel? I
 ![trello list limit image](https://images.ctfassets.net/rz1oowkt5gyp/1Ypqau5LpTqxmvsP0e2Fna/2f5048c4ae59c286cf1050776c3a276d/chap4-integrate_other_apps-_list_limit_powerup.png?w=630&fm=webp)
 
 
+<!-- section 5 this part is paid features of trello like 
+advanced checkboxes 🤮  -->
+# section 5
+# Create advanced checklists
 
+![trello create advanced checklist](https://images.ctfassets.net/rz1oowkt5gyp/46kawsOnr7IgqPyKkhJ8zI/bd94a7afc4272b82e61ffe516b0c045c/Advanced_checklist_Guide_Image_copy.png?w=1200&fm=webp)
+
+## Structure information with Custom Fields
+![trello structure image](https://images.ctfassets.net/rz1oowkt5gyp/392IllHhoXmgn5zYxPCLVJ/6d0e9951ba36651afd24fcefb3b8876c/Custom_Fields_Guide_Image_copy.png?w=1200&fm=webp)
 
 
 
