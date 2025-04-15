@@ -109,8 +109,6 @@ Enough with history now, there are three important project management tools that
 
 Obviously, there are other project management tools, but we cover these.
 
-<<<<<<< HEAD
-
 <!-- compresion.md -->
 # Software Development Tools Comparison
 
@@ -189,7 +187,7 @@ Obviously, there are other project management tools, but we cover these.
 - **Jira** requires plugins for many development-specific features
 
 
-<!-- comprsion.md -->
+<!-- end of comprsion.md -->
 
 
 <!-- features.md -->
@@ -301,8 +299,6 @@ Here are polished, presentation-ready slides for each tool with **intro**, **fea
     First, create an issue. There are multiple ways to create an issue; you can choose the most convenient method for your workflow. This example will use the GitHub UI. For more information about other ways to create an issue, see Creating an issue.
 </p>
 
-
-
 1. On GitHub, navigate to the main page of the repository.
 
 2. Under your repository name, click
@@ -375,15 +371,13 @@ Issues.
 
 
 <!-- 
+TODO
 what i gona add later ; 
 
 . link an issue to a commit 
 . fixing an issue by using fixes phrase 
 . or manulay .with close issue section 
 . assigning closed issues to your id 
-
-
-
  -->
 
 <!-- githubissue.md -->
@@ -395,9 +389,11 @@ what i gona add later ;
 Trello is the visual work management tool that empowers teams to ideate, plan, manage, and celebrate their work together in a collaborative, productive, and organized way
 
 
-![trello welcome iamge](./assets/trello_images/welcome.png)
+![trello welcome iamge](./img/trello/welcome.png)
 
-![trello login image](./assets/trello_images/login.png)
+---
+
+![trello login image](./img/trello/login.png)
 
 
 ## What is a board? 
@@ -433,7 +429,7 @@ The menu is where you manage members' board permissions, control settings, searc
 
 - Name the board to represent whatever you are working on, from organizing an event or managing a blog, to tracking sales leads or launching a new product
 
-![trello create board image](./assets/trello_images/createBoard.png)
+![trello create board image](img/trello/createBoard.png)
 
 
 **Your project data and information are your most valuable assets. As you work through creating a new Trello board, you will have options for adjusting your privacy settings.**
@@ -445,13 +441,13 @@ The menu is where you manage members' board permissions, control settings, searc
 
 - **Public** boards allow anyone with the link to the board to see it. Public boards are ranked on search engines such as Google, meaning that any information on this specific board will be accessible to anyone on the internet. This setting can be used for a public project or for product roadmap that is open to public feedback. Just like other board settings, you can granularly choose who can comment, add or remove members, and edit and join the board
 
-![trello security image](/assets/trello_images/security.png)
+![trello security image](img/trello/security.png)
 
 ## Customize your board
 
 No two workflows are alike, so why not give each board a unique look and feel? In the spirit of fun and flexibility, we let you customize your board background to reflect your team’s unique personality.
 
-![trello](/assets/trello_images/customize.png)
+![trello](img/customize.png)
 
 
 <!-- from now i just want explain from trello app or any other trackers -->
