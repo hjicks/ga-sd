@@ -1,14 +1,20 @@
 VENV := . venv/bin/activate
-P = presention.md
+P = out/p.md
 
-presention:
+all: html live
+
+$(P): doc/*.md
+	cat doc/*.md > $(P)
+
+live: $(P)
 	$(VENV) ; moffee live $(P)
 
-html:
-	$(VENV) ; moffee make $(P) -o html
+html: $(P)
+	$(VENV) ; moffee make $(P) -o out/html
 
 setup:
 	python3 -m venv venv 
 	$(VENV) ; pip install moffee
-test:
+
+test: $(P)
 	spell $(P)
