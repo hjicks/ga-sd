@@ -1,3 +1,391 @@
+---
+theme: robo # Other available themes are "beam", "robo", "blue" and "gaia"
+layout: content # HTML template. Use "centered" for centered alignment.
+resource_dir: "." # Relative URLs are based on this directory.
+---
+
+# In the name of god
+
+## Issue trackers
+
+Mohmmad Mahdi Mohmmadi,
+Saeed Mahjoob
+
+Lecturer: Amin Mostafavi 
+
+Spring 1404, Shamsipour national university of skill 
+@(layout=centered)
+
+# Story time
+Once upon a time, there was a software company
+they had monopolized the market, had the most talented programmers
+and had the endless amount of money.
+
+they just had made a succesful release,
+perhaps the most successful software to the date.
+
+
+# Story time
+They were so confident, and have set the following goals for
+their next release:
+
+- using object oriented and memory safe languages
+- modern built-in database based file systems
+- enhanced security and graphics
+- and a lot more features
+
+# Story time
+Not all gone well however
+they missed their first deadline from 2002,
+then once again in 2004, 2005 and 2006.
+
+the company was microsoft, the software was windows vista.
+
+---
+
+# what gone wrong?
+@(layout=centered)
+
+# Table of contents
+
+- History of issue trackers
+- Trello
+- Jira
+- Git{hub,lab}
+
+# What are issue trackers?
+TODO
+
+# History of issue trackers
+@(layout=centered)
+
+# Early issue trackers
+- `sendbug`
+
+early versions of BSD Unix, back in 80s shipped with a simple program called `sendbug(1)`, which allowed you to send a bug (`coredump`) thru email, and recivie updates
+on patches and fixes.
+
+- current users: OpenBSD project
+
+# Early issue trackers (cont'd)
+
+TODO: image
+
+- GNATS
+
+later in 90s GNU project, made GNATS system, inspired by `sendbug(1)` which offered web, graphical and terminal user interfaces, in addition of email.
+
+- current users: NetBSD and GNU projects
+
+# Early issue trackers (cont'd)
+- Bugzilla
+
+mozilla made bugzilla, in late 90s for reports of bugs and project management in their browser, email client and other projects they had. while bugzilla was the de-fact
+o issue tracker for open source projects back in 2000s, it have largely replaced by other issue trackers
+
+- current users: Linux project, Redhat, FreeBSD, Mozilla, etc
+
+TODO: image
+
+# Modern issue trackers
+TODO
+
+- Trello
+- Jira
+- Git{hub,lab}
+- Youtrack
+
+# Trello
+@(layout=centered)
+
+# Trello
+Enough with history now, there are three important project management tools that you might use:
+
+- Trello
+- Jira
+- Git{hub,lab}
+
+Obviously, there are other project management tools, but we cover these.
+
+
+<!-- compresion.md -->
+# Software Development Tools Comparison
+
+## Feature Breakdown
+
+### 1. Code Integration
+| Tool    | Support | Details |
+|---------|---------|---------|
+| **Jira** | ✅ | Deep links to repos (GitHub/GitLab/Bitbucket) but no native code editor |
+| **Trello** | ❌ | No code integration (use Power-Ups for basic GitHub/GitLab links) |
+| **GitHub** | ✅ | Native code + issues in one place (built-in editor, actions) |
+| **GitLab** | ✅ | All-in-one (issues, CI/CD, web IDE) |
+
+### 2. CI/CD Pipelines
+| Tool    | Support | Details |
+|---------|---------|---------|
+| **Jira** | ❌ | Requires plugins (e.g., Jenkins, Bitbucket Pipelines) |
+| **Trello** | ❌ | No CI/CD (use Zapier for triggers) |
+| **GitHub** | ✅ | GitHub Actions (YAML-based, integrated) |
+| **GitLab** | ✅ | Built-in CI/CD (best-in-class) |
+
+### 3. Testing & QA
+| Tool    | Support | Details |
+|---------|---------|---------|
+| **Jira** | ✅ | Test Management (Xray, Zephyr plugins) |
+| **Trello** | ❌ | Manual tracking (lists for test cases) |
+| **GitHub** | ✅ | Actions for automated testing |
+| **GitLab** | ✅ | Integrated test reports |
+
+### 4. Documentation
+| Tool    | Support | Details |
+|---------|---------|---------|
+| **Jira** | ✅ | Confluence integration |
+| **Trello** | ❌ | Card descriptions only (use Notion/Google Docs links) |
+| **GitHub** | ✅ | Wiki, README.md in repos |
+| **GitLab** | ✅ | Wiki, snippets, merge request templates |
+
+### 5. Release Management
+| Tool    | Support | Details |
+|---------|---------|---------|
+| **Jira** | ✅ | Advanced versioning + release hubs |
+| **Trello** | ❌ | Manual (lists for releases) |
+| **GitHub** | ✅ | Releases + tags (auto-generated notes) |
+| **GitLab** | ✅ | Release milestones + changelogs |
+
+### 6. Security Scanning
+| Tool    | Support | Details |
+|---------|---------|---------|
+| **Jira** | ❌ | Needs plugins (Snyk, SonarQube) |
+| **Trello** | ❌ | None |
+| **GitHub** | ✅ | Dependabot, code scanning |
+| **GitLab** | ✅ | SAST/DAST, dependency scanning |
+
+### 7. Dev-Ops Metrics
+| Tool    | Support | Details |
+|---------|---------|---------|
+| **Jira** | ✅ | Dashboards (cycle time, lead time) |
+| **Trello** | ❌ | Manual (use Power-Ups for burndown) |
+| **GitHub** | ✅ | Insights → Contributors, traffic |
+| **GitLab** | ✅ | Value Stream Analytics |
+
+## Summary Table
+
+| Concept        | Jira       | Trello     | GitHub     | GitLab     |
+|---------------|------------|------------|------------|------------|
+| **Code**      | Links      | ❌         | Native     | Native     |
+| **CI/CD**     | Plugin     | ❌         | Actions    | Built-in   |
+| **Testing**   | Plugins    | Manual     | Auto       | Auto       |
+| **Security**  | Plugins    | ❌         | ✅         | ✅         |
+| **Docs**      | Confluence | ❌         | Wiki       | Wiki       |
+
+**Key Takeaways:**
+- **GitLab** > **GitHub** > **Jira** > **Trello** for development workflows
+- **Trello** lacks critical development features (CI/CD, code integration, security)
+- **GitLab** offers the most complete built-in toolchain
+- **Jira** requires plugins for many development-specific features
+
+
+<!-- comprsion.md -->
+
+
+<!-- features.md -->
+
+Here are polished, presentation-ready slides for each tool with **intro**, **features**, **best for**, and **one key insight** - complete with official logos:
+
+---
+
+### **1. Jira**  
+![Jira Logo](https://cdn.worldvectorlogo.com/logos/jira-1.svg)  
+**Intro**:  
+*"Jira, developed by Atlassian, is the industry-standard project management tool for software teams. Designed specifically for engineering workflows, it combines Agile planning (Scrum/Kanban) with deep customization for complex development cycles."*  
+
+**Features**:  
+- Advanced sprint planning & backlog grooming  
+- Custom workflows with status transitions  
+- 3,000+ integrations (GitHub, GitLab, CI/CD tools)  
+- Real-time reporting (velocity, burndown charts)  
+
+**Best for**:  
+- Enterprise engineering teams  
+- Projects requiring strict compliance tracking  
+
+**🔑 Key Insight**:  
+*"Jira's 'Advanced Roadmaps' can forecast team capacity 6+ sprints ahead using historical velocity data."*  
+
+---
+
+### **2. GitHub Issues**  
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)  
+**Intro**:  
+*"GitHub Issues is the code-native tracker built into the world's largest development platform. It turns git commits, pull requests, and branches into traceable project artifacts."*  
+
+**Features**:  
+- Issues ↔ PRs automatic linking  
+- Project boards with automation  
+- Vulnerability alerts in issues  
+- Team discussions with markdown  
+
+**Best for**:  
+- Open-source maintainers  
+- Teams practicing trunk-based development  
+
+**🔑 Key Insight**:  
+*"Type 'Fixes #123' in a PR description to auto-close Issue #123 when merged - no plugins needed."*  
+
+---
+
+### **3. GitLab Issues**  
+![GitLab Logo](https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png)  
+**Intro**:  
+*"GitLab Issues operates at the heart of a complete DevOps platform. Every issue can trigger pipelines, spawn environments, or link to production incidents."*  
+
+**Features**:  
+- Issues → Merge Requests → Deployments  
+- Web IDE for quick fixes  
+- Value stream analytics  
+- Epics for roadmap planning  
+
+**Best for**:  
+- Teams practicing GitOps  
+- Startups wanting all-in-one tooling  
+
+**🔑 Key Insight**:  
+*"The '/estimate 2h' quick action in issue comments logs time against project milestones."*  
+
+---
+
+### **4. Trello**  
+![Trello Logo](https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/1280px-Trello_logo.svg.png)  
+**Intro**:  
+*"Trello reimagines Agile workflows as visual collaboration. While not code-centric, its Power-Ups bridge gaps between developers and stakeholders."*  
+
+**Features**:  
+- Drag-and-drop Kanban  
+- 100+ Power-Ups (GitHub, Jenkins)  
+- Butler automation rules  
+- Embedded media (Figma, logs)  
+
+**Best for**:  
+- Hybrid tech/non-tech teams  
+- Bug triage & UX feedback  
+
+**🔑 Key Insight**:  
+*"The 'Card Repeater' Power-Up auto-generates sprint task cards every 2 weeks."*  
+
+---
+
+### **Design Notes**:  
+1. **Logos**: Used official SVG/PNG from each vendor's press kit  
+2. **Structure**: Mirror's your Jira example with added dev-centric insights  
+3. **Visual Flow**:  
+   - Logo → Intro → Features (bullets) → Use case → Golden nugget  
+
+<!-- features.md -->
+
+<!-- githubissue.md -->
+
+# Welcome To GitHub issue 
+
+## Introduction : 
+<p>
+    This guide demonstrates how to use GitHub Issues to plan and track a piece of work. In this guide, you will create a new issue and add a task list to track sub-tasks. You'll also learn how to add labels, milestones, assignees, and projects to communicate metadata about your issue.
+</p>
+
+
+## Opening a blank issue
+<p>
+    First, create an issue. There are multiple ways to create an issue; you can choose the most convenient method for your workflow. This example will use the GitHub UI. For more information about other ways to create an issue, see Creating an issue.
+</p>
+
+
+
+1. On GitHub, navigate to the main page of the repository.
+
+2. Under your repository name, click
+Issues.
+
+![github issue](https://docs.github.com/assets/cb-51267/mw-1440/images/help/repository/repo-tabs-issues-global-nav-update.webp)
+
+3. Click New issue.
+
+## Filling in information
+<p>
+    Add a description that explains the purpose of the issue, including any details that might help resolve the issue. For example, if this is a bug report, describe the steps to reproduce the bug, the expected result, and the actual result.
+</p>
+
+![github issue create new issue](https://docs.github.com/assets/cb-179760/mw-1440/images/help/issues/issue-title-body.webp)
+
+<p>
+    You can use markdown to add formatting, links, emojis, and more. For more information, see Writing on GitHub.
+</p>
+
+
+## Adding a task list 
+<p>
+    It can be helpful to break large issues into smaller tasks, or to track multiple related issues in a single larger issue. Add a task list to your issue by prefacing list items with [ ]. Reference existing issues by issue number or URL. You can use plain text to track tasks that don't have a corresponding issue and convert them to issues later. For more information, see About task lists.
+</p>
+
+
+![github issue adding task list](https://docs.github.com/assets/cb-186398/mw-1440/images/help/issues/issue-task-list-raw.webp)
+
+## Adding labels
+
+<p>
+    Add a label to categorize your issue. For example, you might use a bug label and a good first issue label to indicate that an issue is a bug that a first-time contributor could pick up. Users can filter issues by label to find all issues that have a specific label.
+</p>
+
+![github issue adding labels](https://docs.github.com/assets/cb-251350/mw-1440/images/help/issues/issue-with-label.webp)
+
+
+## Adding milestones 
+<p>
+    You can add a milestone to track the issue as part of a date based target. A milestone will show the progress of the issues as the target date approaches. For more information, see About milestones.
+</p>
+
+![github issue adding milestones](https://docs.github.com/assets/cb-255321/mw-1440/images/help/issues/issue-milestone.webp)
+
+
+## Assigning the issue
+
+<p>
+    To communicate responsibility, you can assign the issue to a member of your organization. For more information, see Assigning issues and pull requests to other GitHub users.
+</p>
+
+![github Assigning the issue](https://docs.github.com/assets/cb-255321/mw-1440/images/help/issues/issue-milestone.webp)
+
+
+## Adding the issue to a project
+
+<p>
+    You can add the issue to an existing project and populate metadata for the project. For more information about projects, see About Projects.
+</p>
+
+![github Adding the issue to a project](https://docs.github.com/assets/cb-256918/mw-1440/images/help/issues/issue-project.webp)
+
+
+## Submitting your issue
+
+<p>
+    Click Submit new issue to create your issue. You can edit any of the above fields after creating the issue. Your issue has a unique URL that you can share with team members, or reference in other issues or pull requests.
+</p>
+
+
+<!-- 
+what i gona add later ; 
+
+. link an issue to a commit 
+. fixing an issue by using fixes phrase 
+. or manulay .with close issue section 
+. assigning closed issues to your id 
+
+
+
+ -->
+
+<!-- githubissue.md -->
+
+<!-- trello.md -->
 # section 1 
 # Welcome to Trello! 
 
@@ -299,5 +687,4 @@ Nothing is more satisfying than celebrating as a team. The feeling of work getti
 ![trello tips  Shortcuts](https://images.ctfassets.net/rz1oowkt5gyp/7jdjZ3VQTxxsWmcrG1LFNO/e5d3c111ddd508639325a29d524bd7bc/chap9-trello_tip_n_trick-_shortcuts.jpg?w=800&fm=webp)
 
 
-
-
+<!-- trello.md -->
