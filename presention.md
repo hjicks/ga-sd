@@ -35,11 +35,13 @@ their next release:
 - and a lot more features
 
 # Story time
-Not all gone well however
+Not all gone well however.
 they missed their first deadline from 2002,
 then once again in 2004, 2005 and 2006.
 
-the company was microsoft, the software was windows vista.
+It cost 120 billion dollars. ([source](https://news.softpedia.com/news/Windows-Vista-the-120-Billion-Operating-System-54843.shtml))
+
+The company was microsoft, and the software was Windows vista.
 
 ---
 
@@ -107,6 +109,7 @@ Enough with history now, there are three important project management tools that
 
 Obviously, there are other project management tools, but we cover these.
 
+<<<<<<< HEAD
 
 <!-- compresion.md -->
 # Software Development Tools Comparison
@@ -688,3 +691,22 @@ Nothing is more satisfying than celebrating as a team. The feeling of work getti
 
 
 <!-- trello.md -->
+=======
+# Jira
+@(layout=centered)
+
+---
+
+![jira is a crap, i'm sorry](img/meme.jpg)
+
+# Jira
+
+
+# Github and Gitlab
+@(layout=centered)
+
+
+---
+
+![none recalls the third one](img/meme.png)
+>>>>>>> 509205c4af4508bfbe09c019efa58e1b6a1fc8bd

@@ -14,6 +14,7 @@ you can also generate static html files:
 $ make html
 ```
 ## agenda
+```
 * introduction and agenda
 * issue trackers, what problem do they solve
 ** this is bob.png
@@ -26,3 +27,4 @@ $ make html
 ** issues, roadmap
 ** jira dashboard
 ** connecting jira to gitlab
+```
