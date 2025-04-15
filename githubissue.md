@@ -87,7 +87,7 @@ Issues.
 <!-- 
 what i gona add later ; 
 
-. link an issue to a commit 
+. link an issue to a commit to this you can add #number of issue to the commit 
 . fixing an issue by using fixes phrase 
 . or manulay .with close issue section 
 . assigning closed issues to your id 
