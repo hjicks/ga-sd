@@ -1,5 +1,8 @@
 ### **Trello**
 ![Trello Logo](https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/1280px-Trello_logo.svg.png)
+
+---
+
 **Intro**:
 *"Trello reimagines Agile workflows as visual collaboration. While not code-centric, its Power-Ups bridge gaps between developers and stakeholders."*
 
