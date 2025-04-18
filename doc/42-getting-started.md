@@ -19,7 +19,7 @@
 ![tello colaboration image](trello/inviting.png)
 
 ## Set member permissions [Normal , Admin , Observe]
-![trello permisssions image](chap3-onboardteam-members_permissions-workspace.webp)
+![trello permisssions image](trello/setPermisson.png)
 
 > [TODO]
 > where is the image?
