@@ -1,5 +1,3 @@
-# section 9 the end 
-
 # Learn Trello’s top tips and tricks
 
 ### Card covers
@@ -15,7 +13,7 @@
 ![trello tips Stickers](https://images.ctfassets.net/rz1oowkt5gyp/zNZUpoLDeRZRWFPP9V9H8/213b7dd3aa9c980c5680926cc31b397a/chap9-trello_tip_n_trick-_stickers.png?w=675&fm=webp)
 
 ### Confetti celebration
-Nothing is more satisfying than celebrating as a team. The feeling of work getting done and tasks crossing the finish line helps your team feel that all of their efforts have been worth it. 
+Nothing is more satisfying than celebrating as a team. The feeling of work getting done and tasks crossing the finish line helps your team feel that all of their efforts have been worth it.
 
 🎉 🎊 🎇 🎆 ✨ 👖
 

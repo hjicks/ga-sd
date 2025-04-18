@@ -1,7 +1,6 @@
 <!-- section 5 this part is paid features of trello like
 advanced checkboxes \xf0\x9f\xa4\xae  -->
-# section 5
-# Create advanced checklists
+## Create advanced checklists
 
 ![trello create advanced checklist](https://images.ctfassets.net/rz1oowkt5gyp/46kawsOnr7IgqPyKkhJ8zI/bd94a7afc4272b82e61ffe516b0c045c/Advanced_checklist_Guide_Image_cop
 y.png?w=1200&fm=webp)

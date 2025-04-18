@@ -1,6 +1,4 @@
-# section 7
-
-# Automate anything in Trello
+## Automate anything in Trello
 
 #### Intro to automation 
 - Rules
@@ -8,6 +6,7 @@
 - Due date commands 
 - Calendar commands
 
+---
 
 #### Getting started with automation 
 
@@ -34,7 +33,8 @@
 
 ![trello automation rule base](https://images.ctfassets.net/rz1oowkt5gyp/2cD80vEne8PRps8DubV0Xh/c9dbed7237e7b5e104272f374a3040fa/ch6-create_rule.png?w=1910&fm=webp)
 
-###Card and board buttons
+### Card and board buttons
+
 - Here’s how to add buttons to cards and boards
 - Examples of useful buttons:
 
@@ -45,9 +45,6 @@
 
 ![trello automation Calendar and due date commands](https://images.ctfassets.net/rz1oowkt5gyp/2wNq8LMGeWsnwHQvRAiHCy/ddf8b84dce7826f3a1c179cd5a20f385/Chapter_6_-_Automation_-_Email.jpg?w=1860&fm=webp)
 
----
-### Calendar and due date commands
-
 ![trello automation Calendar and due date commands](https://images.ctfassets.net/rz1oowkt5gyp/2wNq8LMGeWsnwHQvRAiHCy/ddf8b84dce7826f3a1c179cd5a20f385/Chapter_6_-_Automation_-_Email.jpg?w=1860&fm=webp)
 
 ---
@@ -56,7 +53,6 @@
 ![trello automation for email and integrations ](https://images.ctfassets.net/rz1oowkt5gyp/2wNq8LMGeWsnwHQvRAiHCy/ddf8b84dce7826f3a1c179cd5a20f385/Chapter_6_-_Automation_-_Email.jpg?w=1860&fm=webp)
 
 ---
-### Automations for email and integrations
 
-![trello automation for email and integrations ](https://images.ctfassets.net/rz1oowkt5gyp/5CPAKrcOoWMYp6hFvypXgB/dfc3ac059ff444758850c25f38275e29/Chapter-6---Automation---Jira.jpg?w=1183&fm=webp
+![trello automation for email and integrations](https://images.ctfassets.net/rz1oowkt5gyp/5CPAKrcOoWMYp6hFvypXgB/dfc3ac059ff444758850c25f38275e29/Chapter-6---Automation---Jira.jpg?w=1183&fm=webp)
 
