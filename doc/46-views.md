@@ -28,5 +28,11 @@
 ## Workspace calendar view
 ![trello board view](https://images.ctfassets.net/rz1oowkt5gyp/Drxaqw2YmEE7T2ePsIeCL/053c11a835e9c2d0841fa758823dfeb4/Guide_Chapter_6_-_Workspace_Calendar_View_copy.png?w=2280&fm=webp )
 
-**Feature focusa and great for what**
+<!-- 
+im going to talk about 
+features 
+focues
+and greate for what  
+
+ -->
 
