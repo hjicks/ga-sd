@@ -4,17 +4,17 @@ TODO
 - Trello
 - Jira
 - Git{hub,lab}
-- Youtrack
 
-# Trello
-@(layout=centered)
 
-# Trello
-Enough with history now, there are three important project management tools that you might use:
+## Trello
 
-- Trello
-- Jira
-- Git{hub,lab}
+## Jira
 
-Obviously, there are other project management tools, but we cover these.
+## Git{hub,lab}
+
+github is often used as VCS in commbantion with git, but it can also
+be used as a project tracking tool.
+
+main advantge of github is you can access to *artifacts* easier,
+compared to other project managment tools.
 
