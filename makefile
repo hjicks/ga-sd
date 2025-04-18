@@ -1,7 +1,7 @@
 VENV := . venv/bin/activate
 P = out/p.md
 
-all: html live
+all: html
 
 $(P): doc/*.md
 	cat doc/*.md > $(P)
