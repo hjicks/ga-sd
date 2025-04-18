@@ -1,6 +1,4 @@
-# In the name of god
-
-## Issue trackers
+# Project management tools
 
 Mohmmad Mahdi Mohmmadi,
 Saeed Mahjoob
