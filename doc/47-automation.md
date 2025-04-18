@@ -14,9 +14,7 @@
 - Rules
 - card buttons
 - board buttons
-- calendar
-- and due date
-- Get help
+- calendar and due date
 - Connected apps 
 - Account
 
