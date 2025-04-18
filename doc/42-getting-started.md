@@ -1,8 +1,5 @@
 ##  Build your project in Trello
 ### Create a board
-- From the team’s Workspace tab, click “Create new board” or click the plus button (+) in the Trello header directly to the left of your name, and select “Create Board”.
-
-- Name the board to represent whatever you are working on, from organizing an event or managing a blog, to tracking sales leads or launching a new product
 
 ---
 
