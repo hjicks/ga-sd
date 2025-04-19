@@ -20,7 +20,6 @@
 - Startups wanting all-in-one tooling
 
 
-
 > [!NOTE]
 > "The '/estimate 2h' quick action in issue comments logs time against project milestones."*
 

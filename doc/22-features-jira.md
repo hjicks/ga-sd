@@ -9,7 +9,7 @@
 
 <->
 
-![Jira Logo](logos/jira.svg)
+![Jira Logo](logos/jira.png)
 
 ===
 
