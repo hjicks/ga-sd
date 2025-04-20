@@ -1,8 +1,4 @@
-# Comparison
-@(layout=centered)
-
----
-
+## Comparison
 ### Code Integration
 | Tool    | Support | Details |
 |---------|---------|---------|
@@ -43,7 +39,7 @@
 | **Code Int.** | Links      |   ❌      | Native     | Native     |
 | **Testing**   | Plugins    | Manual   | Auto       | Auto       |
 | **Docs**      | Confluence |   ❌      | Wiki       | Wiki       |
-| **Releases**  | ✅          |   ✅      |   ✅        |   ✅        |
+| **Releases**  | ✅          |   ❌      |   ✅        |   ✅        |
 
 ---
 

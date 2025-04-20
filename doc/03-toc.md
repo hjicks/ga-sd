@@ -1,9 +1,10 @@
 # Table of contents
 
-- History of issue trackers
-- Features of issue modern issue trackers
-- Comparsion of issue trackers
+- What are project management tools
+- Berif history of project management tools
+- Features comparsion
 - Trello
 - Jira
-- Git{hub,lab}
+- Git{Hub,Lab}
 
+---

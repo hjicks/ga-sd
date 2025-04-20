@@ -1,8 +1,4 @@
-<!-- githubissue.md -->
 # Github and Gitlab
-@(layout=centered)
-
----
 
 ![none recalls the third one](memes/github.png)
 
@@ -34,7 +30,7 @@
 ![github issue adding milestones](github/milestone.webp)
 
 ## Assigning the issue
-- You can assign the issue to a member of team.
+- You can assign the issue to a member of team
 
 ![Assigning the issue](github/milestone.webp)
 
@@ -42,7 +38,6 @@
 > this has same picture with milestone?
 
 ## Adding the issue to a project
-You can add the issue to an existing project and populate metadata for the project. For more information about projects, see About Projects.
 
 ![Adding the issue to a project](github/project.webp)
 

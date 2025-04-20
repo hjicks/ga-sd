@@ -22,10 +22,9 @@ then once again in 2004, 2005 and 2006.
 
 It cost 120 billion dollars. ([source](https://news.softpedia.com/news/Windows-Vista-the-120-Billion-Operating-System-54843.shtml))
 
-The company was microsoft, and the software was Windows vista.
+The company was **microsoft**, and the software was **Windows vista**.
+
+what gone wrong?
 
 ---
-
-# what gone wrong?
-@(layout=centered)
 
