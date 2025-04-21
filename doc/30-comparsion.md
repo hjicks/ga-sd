@@ -3,7 +3,7 @@
 | Tool    | Support | Details |
 |---------|---------|---------|
 | **Jira** | ✅ | Deep links to repos (GitHub/GitLab) |
-| **Trello** | ❌ | No code integration (use Power-Ups for basic GitHub/GitLab links) |
+| **Trello** | ❌ | No code integration (use Power-Ups for GitHub/GitLab links) |
 | **GitHub** | ✅ | Native code + issues in one place (built-in editor, actions) |
 
 ### Testing & QA
