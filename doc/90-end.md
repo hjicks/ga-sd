@@ -4,6 +4,10 @@
 :)
 @(layout=centered)
 
+source code of this presention is available here:
+
+[github.com/hjicks/ga-sd](https://github.com/hjicks/ga-sd)
+
 ---
 # Questions
 
@@ -19,3 +23,5 @@
 🔗 Jira – Deep links to repos (GitHub/GitLab/Bitbucket) but isn’t "native."
 -->
 5. Name some benefits of project management tools.
+
+These are available in [github](https://github.com/hjicks/ga-sd/issues/6) too ;)
