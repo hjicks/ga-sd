@@ -4,7 +4,11 @@ layout: content # HTML template. Use "centered" for centered alignment.
 resource_dir: "img" # Relative URLs are based on this directory.
 ---
 
+
 # Project management tools
+**(issue trackers)**
+
+*6th draft*
 
 Mohmmad Mahdi Mohmmadi,
 Saeed Mahjoob
