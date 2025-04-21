@@ -24,7 +24,6 @@ Microsoft in 1984 developed *Project*, as a project management tool
 which included basic scheduling tools, assigning resources to tasks
 et cetra.
 
-
 ---
 
 ![Screen shot of an early microsoft project](history/msproject.png)
@@ -32,7 +31,7 @@ et cetra.
 ## GNATS
 In 90s GNU project, made *GNATS* system,
 inspired by `sendbug(1)` bug tracking system
-it offered web, graphical and terminal and email-based interfaces.
+it offered web, graphical and terminal and email-based interfaces
 
 <->
 
@@ -40,12 +39,13 @@ it offered web, graphical and terminal and email-based interfaces.
 
 ===
 
-> current users: NetBSD and GNU projects
+> [!NOTE]
+> Bug trackers are used to track bugs and issue reports in programs
 
 ## Bugzilla
-Mozilla made *Bugzilla*, in late 90s for reports of bugs and project management in their projects.
+Mozilla made *Bugzilla*, in late 90s for reports of bugs and project management in their projects
 
-Bugzilla was very popular back in 2000s, but now replaced by other tools.
+Bugzilla was very popular back in 2000s, but now replaced by other tools
 
 > current users: Linux, FreeBSD, Mozilla, etc
 
