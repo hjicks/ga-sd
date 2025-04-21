@@ -7,7 +7,7 @@
 ---
 # Questions
 
-1. What are lists in tello?  <!-- refers to 41-intro.md -->
+1. What are lists in Trello?  <!-- refers to 41-intro.md -->
 2. Name some project manager tools. <!--referes to 10-history.md -->
 3. What makes Jira ideal for enterprise engineering teams? <!-- refers to 22-features-jira.md --->
 4. Which tools offer native code integration besides Jira? <!--refers to 30-compersion.md --> 
