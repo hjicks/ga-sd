@@ -23,7 +23,7 @@
 - Hybrid tech/non-tech teams
 - Bug triage & UX feedback
 
-> [!NOTE]
+> [!TIP]
 > *"The 'Card Repeater' Power-Up auto-generates sprint task cards every 2 weeks."*
 
 ---
@@ -48,8 +48,7 @@
 - Enterprise engineering teams
 - Projects requiring strict compliance tracking
 
-
-> [!NOTE]
+> [!TIP]
 > *"Jira's 'Advanced Roadmaps' can forecast team capacity 6+ sprints ahead using historical velocity data."*
 
 ---
@@ -74,7 +73,7 @@
 - Teams practicing trunk-based development
 
 
-> [!NOTE]
+> [!TIP]
 > *"Type 'Fixes #123' in a PR description to auto-close Issue #123 when merged - no plugins needed."*
 
 ---
