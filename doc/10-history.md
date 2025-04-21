@@ -17,7 +17,7 @@ Gantt charts have two important properties:
 
 ---
 
-![An photo of a old gantt chart](history/gantt.png)
+![Gantt chart example](history/ganttanatomy.png)
 
 ## Microsoft project
 Microsoft in 1984 developed *Project*, as a project management tool
