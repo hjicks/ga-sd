@@ -122,7 +122,7 @@ i just put a image for it with no text
 <!--
 ### Clearly part your project with List Limits
 
-![trello list limit image](https://images.ctfassets.net/rz1oowkt5gyp/1Ypqau5LpTqxmvsP0e2Fna/2f5048c4ae59c286cf1050776c3a276d/chap4-integrate_other_apps-_list_limit_powerup.png?w=630&fm=webp)
+![trello list limit image](trello/listlimits.webp)
 -->
 
 ## Board view
@@ -131,7 +131,7 @@ i just put a image for it with no text
 
 ## Table view
 
-![trello board view](https://images.ctfassets.net/rz1oowkt5gyp/6LEWNNxRFtzj1MLG90umkA/ae59872a72000198a84e61026fed3200/Guide_Chapter_6_-_Table_View?w=1269&fm=webp)
+![trello board view](trello/tableview.webp)
 
 ## Calendar view
 
@@ -146,10 +146,10 @@ i just put a image for it with no text
 ![trello board view](trello/dashboardview.webp)
 
 ## Workspace table view
-![trello board view](https://images.ctfassets.net/rz1oowkt5gyp/5aIxrdGYx2lT5iLwATwKNH/f842a90570c4227b65b93dc52a799806/Guide_Chapter_6_-_Workspace_Table_View.png?w=2280&fm=webp)
+![trello board view](trello/workspacetableview.webp)
 
 ## Workspace calendar view
-![trello board view](https://images.ctfassets.net/rz1oowkt5gyp/Drxaqw2YmEE7T2ePsIeCL/053c11a835e9c2d0841fa758823dfeb4/Guide_Chapter_6_-_Workspace_Calendar_View_copy.png?w=2280&fm=webp )
+![trello board view](trello/workspaceview.webp)
 
 <!-- 
 im going to talk about 
@@ -180,20 +180,20 @@ and great for what
 
 ---
 
-![trello automation](https://images.ctfassets.net/rz1oowkt5gyp/1OGBl4107qweAJvs19T0O4/1b1d1f1adc2abc40c8efe7814f82abf8/Chapter_6_-_Butler_-_Butler_menu.png?w=1439&fm=webp)
+![trello automation](trello/butler.webp)
 
 ---
 
 ### Rule based automation
-![trello automation rule base](https://images.ctfassets.net/rz1oowkt5gyp/4QwbzWec4DUzqs55jQ83Gy/72f5a8b978f68307f5261b044c475346/Chapter_6_-_Automation_-_Rule1.jpg?w=1572&fm=webp)
+![trello automation rule base](trello/ruletrigger.webp)
 
 ---
 
-![trello automation rule base](https://images.ctfassets.net/rz1oowkt5gyp/2cD80vEne8PRps8DubV0Xh/c9dbed7237e7b5e104272f374a3040fa/ch6-create_rule.png?w=1910&fm=webp)
+![trello automation rule base](trello/createrule.webp)
 
 ### Cards and board buttons
 
-![trello automation card and baord buttons](https://images.ctfassets.net/rz1oowkt5gyp/3sBcDbgTTKl0stN9vfA1VP/bd0c833f9c974c738fc282d204261de0/Chapter_6_-_Automation_-_CardButton1.jpg?w=1814&fm=webp)
+![trello automation card and baord buttons](trello/createautomatedcard.webp)
 
 ---
 ### Calendar and due date commands
@@ -203,7 +203,7 @@ and great for what
 ## Set permissions and admin controls
 
 ### Workspace administration
-![trello automation for email and integrations](https://images.ctfassets.net/rz1oowkt5gyp/6LCkODRrUnD0t6dK0blCBr/b3a0c8f225973e6c1cf80547324eca4f/Guide_Chapter_8_-_Free_Workspaces_admin_features.png?w=2280&fm=webp)
+![trello automation for email and integrations](trello/members.webp)
 
 ### Members and guests permissions
 - Invite and remove Workspace members
@@ -256,7 +256,7 @@ Nothing is more satisfying than celebrating as a team. The feeling of work getti
 🎉 🎊 🎇 🎆 ✨ 👖
 
 ## Mark as done
-![trello tips Mark as done](https://images.ctfassets.net/rz1oowkt5gyp/1wf2LuEut9NBGypbztUiPV/73ae121cbcfbd9b9766ef0ce6116b532/chap9-trello_tip_n_trick-_mark_done.png?w=640&fm=webp)
+![trello tips Mark as done](trello/markasdone.webp)
 
 this wont show well
 ## Shortcuts
