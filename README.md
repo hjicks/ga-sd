@@ -7,24 +7,10 @@ dunno. you can build the presention if you'd like:
 $ make setup
 $ make
 ```
-this install required libraries and run a web server at `localhost:5500`, using `moffee` library.
+this install required libraries and generates outputs at `out/html/index.html`
 
-you can also generate static html files:
+for whole file, you can run the following:
 ```
 $ make html
 ```
-## agenda
-```
-* introduction and agenda
-* issue trackers, what problem do they solve
-** this is bob.png
-* common issue trackers
-* Trello
-** project managemnt with terllo
-** cards and boards
-* Jira
-** kanban and scrum models
-** issues, roadmap
-** jira dashboard
-** connecting jira to gitlab
-```
+which generates the 100+ pages html file.
