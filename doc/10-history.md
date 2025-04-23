@@ -4,13 +4,13 @@
 ---
 
 ## Gantt charts
-Project managment is nothing new, it even predates
+Project management is nothing new, it even predates
 computers as we know today. One of earlist project management
 tools is *Gantt chart*, invented in *1915*.
 
 Gantt charts have two important properties:
 
-- They show **dependcies between activties**
+- They show **dependcies between activities**
 - They help **visualizing project schedule**
 
 > current users: Gantt charts are still used widely
@@ -19,8 +19,13 @@ Gantt charts have two important properties:
 
 ![Gantt chart example](history/ganttanatomy.png)
 
-## Microsoft project
-Microsoft in 1984 developed *Project*, as a project management tool
+## Project
+
+![old microsoft project logo](history/msproject.svg)
+
+<->
+
+Microsoft in *1984* made *Project*, as a project management tool
 which included basic scheduling tools, assigning resources to tasks
 et cetra.
 
@@ -41,6 +46,10 @@ it offered web, graphical and terminal and email-based interfaces
 
 > [!NOTE]
 > Bug trackers are used to track bugs and issue reports in programs
+
+---
+
+![GNATS screenshot](history/gnatsscreen.jpg)
 
 ## Bugzilla
 Mozilla made *Bugzilla*, in late 90s for reports of bugs and project management in their projects
