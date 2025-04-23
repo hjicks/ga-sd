@@ -18,10 +18,26 @@
 
 ===
 
+**Not suited for**:
+
+<ul>
+<font color='red'>
+<li>Large scale projects</li>
+</font>
+</ul>
+
+<->
+
 **Best for**:
 
-- Hybrid tech/non-tech teams
-- Bug triage & UX feedback
+<ul>
+<font color='green'>
+<li>Hybrid tech/non-tech teams</li>
+<li>Bug triage & UX feedback</li>
+</font>
+</ul>
+
+===
 
 > [!TIP]
 > *"The 'Card Repeater' Power-Up auto-generates sprint task cards every 2 weeks."*
@@ -43,10 +59,26 @@
 
 ===
 
+**Not suited for**:
+
+<ul>
+<font color='red'>
+<li>Medium and small sized projects</li>
+</font>
+</ul>
+
+<->
+
 **Best for**:
 
-- Enterprise engineering teams
-- Projects requiring strict compliance tracking
+<ul>
+<font color='green'>
+<li>Enterprise engineering teams</li>
+<li>Projects requiring strict tracking</li>
+</font>
+</ul>
+
+===
 
 > [!TIP]
 > *"Jira's 'Advanced Roadmaps' can forecast team capacity 6+ sprints ahead using historical velocity data."*
@@ -65,13 +97,28 @@
 <->
 
 ![GitHub Logo](logos/github.png)
+
 ===
+
+**Not suited for**:
+
+<ul>
+<font color='red'>
+<li>Closed-source and non-software projects</li>
+</font>
+</ul>
+
+<->
 
 **Best for**:
 
-- Open-source maintainers
-- Teams practicing trunk-based development
+<ul>
+<font color='green'>
+<li>Open-source maintainers</li>
+</font>
+</ul>
 
+===
 
 > [!TIP]
 > *"Type 'Fixes #123' in a PR description to auto-close Issue #123 when merged - no plugins needed."*
