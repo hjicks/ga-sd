@@ -72,10 +72,10 @@ i just put a image for it with no text
 
 ## Start collaborating
 
-![tello colaboration image](trello/inviting.png)
+![tello collaboration image](trello/inviting.png)
 
 ## Set member permissions [Normal , Admin , Observe]
-![trello permisssions image](trello/setPermisson.png)
+![trello permissions image](trello/setPermisson.png)
 
 ## Build a workflow (Creating lists)
 
@@ -160,7 +160,7 @@ and great for what
 
 ## Automatation
 
-### Intro to automation 
+### Intro to automation
 - Rules
 - Buttons
 - Due date commands 
@@ -168,7 +168,7 @@ and great for what
 
 ---
 
-### Getting started with automation 
+## Getting started with automation 
 
 - Automation tips
 - Rules
@@ -184,28 +184,28 @@ and great for what
 
 ---
 
-### Rule based automation
+## Rule based automation
 ![trello automation rule base](trello/ruletrigger.webp)
 
 ---
 
 ![trello automation rule base](trello/createrule.webp)
 
-### Cards and board buttons
+## Cards and board buttons
 
 ![trello automation card and baord buttons](trello/createautomatedcard.webp)
 
 ---
-### Calendar and due date commands
+## Calendar and due date commands
 
 ![trello automation Calendar and due date commands](trello/automationrule.png)
 
 ## Set permissions and admin controls
 
-### Workspace administration
+## Workspace administration
 ![trello automation for email and integrations](trello/members.webp)
 
-### Members and guests permissions
+## Members and guests permissions
 - Invite and remove Workspace members
 - Create Workspace invite links
 - Convert guests into Workspace members
@@ -226,9 +226,9 @@ and great for what
 
 ### Setting board permissions
 
-There are three options for board visiablity
+There are three options for board visibility
 1. Visible
-	it's accessable to every member of workspace
+	it's accessible to every member of workspace
 2. Private
 	it's only accessible to members of **that board**
 3. Public
