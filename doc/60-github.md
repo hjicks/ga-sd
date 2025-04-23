@@ -47,7 +47,7 @@ what i gona add later ;
 
 . link an issue to a commit
 . fixing an issue by using fixes phrase
-. or manulay .with close issue section
+. or manually .with close issue section
 . assigning closed issues to your id
  -->
 
