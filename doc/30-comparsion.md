@@ -27,7 +27,7 @@
 | **Trello** | ❌ | Manual (lists for releases) |
 | **GitHub** | ✅ | Releases + tags (auto-generated notes) |
 
-## Summary Table
+## Summary
 
 | Concept       | Jira       | Trello   | GitHub     |
 |---------------|------------|----------|------------|
