@@ -2,7 +2,7 @@ VENV := . venv/bin/activate
 P = out/p.md
 SP = out/sp.md
 
-all: html
+all: shorthtml
 
 $(P): doc/*.md
 	cat doc/*.md > $(P)
