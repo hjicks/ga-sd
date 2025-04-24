@@ -19,6 +19,19 @@ Gantt charts have two important properties:
 
 ![Gantt chart example](history/ganttanatomy.png)
 
+## CPM/PERT
+In *1958*, US navy developed a method to
+find the ***least amount of time***,
+a set of dependent tasks would require to finish
+
+These methods were called ***CPM***
+(critical path method) and ***PERT***
+(program evaluation and review technique)
+
+<->
+
+![a PERT network chart](history/pert.svg)
+
 ## Project
 
 ![old microsoft project logo](history/msproject.svg)
@@ -27,7 +40,7 @@ Gantt charts have two important properties:
 
 Microsoft in *1984* made *Project*, as a project management tool
 which included basic scheduling tools, assigning resources to tasks
-et cetra.
+et cetra
 
 ---
 
