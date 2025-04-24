@@ -79,19 +79,20 @@ Bugzilla was very popular back in 2000s, but now replaced by other tools
 ![Bugzilla screenshot and mascot](history/bugzilla.gif)
 
 # Modern project management tools
-
-- هدف سنج
-- پیگیر
-- میزیتو
+<ul style=font-family:"Vazirmatn">
+<li>هدف سنج</li>
+<li>پیگیر</li>
+<li>میزیتو</li>
+</ul>
 
 <->
 
-- **Trello**
 - Trac
 - Microsoft project
+- Jetbrains Youtrack
+- **Trello**
 - **Jira**
-- Youtrack
-- **Git{Hub,Lab}**
+- **GitHub**
 
 
 

@@ -7,7 +7,7 @@ resource_dir: "img" # Relative URLs are based on this directory.
 # Project management tools
 **(issue trackers)**
 
-*9th draft*
+*10th draft*
 
 Mohmmad Mahdi Mohmmadi,
 Saeed Mahjoob
@@ -62,12 +62,9 @@ then twice again again in 2004 and 2005, finally releasing in **2006**
 Constant delays cost them **120 billion dollars** ([source](https://news.softpedia.com/news/Windows-Vista-the-120-Billion-Operating-System-54843.shtml))
 
 @(background-color='black' color='white')
-# Story time
+# What went wrong?
 
 ![windows vista](intro/vista.png)
-
-# What gone wrong?
-
 @(layout=centered)
 
 # What are project management tools?
