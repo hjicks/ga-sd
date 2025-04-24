@@ -4,7 +4,7 @@
 :)
 @(layout=centered)
 
-source code of this presention is available here:
+source code of this presentation is available here:
 
 [github.com/hjicks/ga-sd](https://github.com/hjicks/ga-sd)
 
