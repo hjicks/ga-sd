@@ -21,7 +21,7 @@ Spring 1404, Shamsipour national university of skill
 # Table of contents
 
 - What are project management tools
-- Berif history of project management tools
+- Brief history of project management tools
 - Features comparsion
 - Trello
 - Jira
@@ -72,7 +72,7 @@ It cost them **120 billion dollars**. ([source](https://news.softpedia.com/news/
 
 # What are project management tools?
 
-![cool gif of people collabratting](intro/groupmeeting.gif)
+![cool gif of people collaborating](intro/groupmeeting.gif)
 
 <->
 

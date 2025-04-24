@@ -6,12 +6,12 @@
 ## Gantt charts
 Project management is nothing new, it even predates
 computers as we know today. One of earlist project management
-tools is *Gantt chart*, invented in *1915*.
+tools is *Gantt chart*, invented in *1915*
 
 Gantt charts have two important properties:
 
-- They show **dependcies between activities**
-- They help **visualizing project schedule**
+- They show ***dependencies between activities**
+- They help ***visualizing project schedule***
 
 > current users: Gantt charts are still used widely
 
