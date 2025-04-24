@@ -1,6 +1,7 @@
 VENV := . venv/bin/activate
 P = out/p.md
 SP = out/sp.md
+OUT = out/html
 
 all: shorthtml
 
@@ -14,10 +15,10 @@ live: $(P)
 	$(VENV) ; moffee live $(P)
 
 html: $(P)
-	$(VENV) ; moffee make $(P) -o out/html
+	$(VENV) ; moffee make $(P) -o $(OUT)
 
 shorthtml: $(SP)
-	$(VENV) ; moffee make $(SP) -o out/html
+	$(VENV) ; moffee make $(SP) -o $(OUT)
 
 setup:
 	python3 -m venv venv 
