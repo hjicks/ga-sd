@@ -13,8 +13,6 @@ Gantt charts have two important properties:
 - They show ***dependencies between activities**
 - They help ***visualizing project schedule***
 
-> current users: Gantt charts are still used widely
-
 ---
 
 ![Gantt chart example](history/ganttanatomy.png)
@@ -31,6 +29,11 @@ These methods were called ***CPM***
 <->
 
 ![a PERT network chart](history/pert.svg)
+
+===
+
+> [!NOTE]
+> Gantt's charts and critical path method are sinew of modern project mangement
 
 ## Project
 
