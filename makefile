@@ -24,5 +24,5 @@ setup:
 	python3 -m venv venv 
 	$(VENV) ; pip install moffee
 
-test: $(P)
-	spell $(P)
+test: $(SP)
+	spell $(SP) | grep -v '\.'
