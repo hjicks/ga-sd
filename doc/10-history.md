@@ -10,7 +10,7 @@ tools is *Gantt chart*, invented in *1915*
 
 Gantt charts have two important properties:
 
-- They show ***dependencies between activities**
+- They show ***dependencies between activities***
 - They help ***visualizing project schedule***
 
 ---
