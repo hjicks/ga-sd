@@ -62,9 +62,12 @@ then twice again again in 2004 and 2005, finally releasing in **2006**
 Constant delays cost them **120 billion dollars** ([source](https://news.softpedia.com/news/Windows-Vista-the-120-Billion-Operating-System-54843.shtml))
 
 @(background-color='black' color='white')
-# What went wrong?
+
+---
 
 ![windows vista](intro/vista.png)
+
+# What went wrong?
 @(layout=centered)
 
 # What are project management tools?

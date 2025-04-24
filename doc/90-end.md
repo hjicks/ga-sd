@@ -1,4 +1,22 @@
----
+# Summary
+
+s what do we have learned today?
+
+===
+
+<p style="text-align: center">What are project management tools</p>
+
+===
+
+<p style="text-align: center">using Trello</p>
+
+<->
+
+<p style="text-align: center">using Jira</p>
+
+===
+
+<p style="text-align: center">And using GitHub issues</p>
 
 # Thank you for your attention
 :)
