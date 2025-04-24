@@ -29,37 +29,37 @@ Spring 1404, Shamsipour national university of skill
 
 # Story time
 
-Once upon a time, there was a software company
-they had monopolized the market, had the most talented programmers
-and had the endless amount of money.
 
-They just had made a successful release,
-perhaps the most successful software to the date.
+Once upon a time, there was a software company that had monopolized the market,
+had the most talented programmers and an endless amount of money and resources
+
+they had just the most successful release,
+perhaps the most successful software to date
 
 # Story time
-They were so confident, and have set the following goals for
-their next release:
+they were pretty confident,
+and had set the following goals for their next release
 
-- using object oriented and memory safe languages
+- using OO or and memory safe languages
 - modern built-in database based file systems
 - enhanced security and graphics
-- and a lot more features
+- and many more features
 
 <->
 
 ![people standing](intro/people.gif)
 
 # Story time
-Not all gone well however
+Not all went well however
 
-They **missed** their first deadline from **2002**,
-then once again in 2004 and **2006**
+They **missed** their first deadline for release in **2002**,
+then twice again again in 2004 and 2005, finally releasing in **2006**
 
 ===
 
 **4 years wasted**
 
-It cost them **120 billion dollars** ([source](https://news.softpedia.com/news/Windows-Vista-the-120-Billion-Operating-System-54843.shtml))
+Constant delays cost them **120 billion dollars** ([source](https://news.softpedia.com/news/Windows-Vista-the-120-Billion-Operating-System-54843.shtml))
 
 @(background-color='black' color='white')
 # Story time
