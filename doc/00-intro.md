@@ -7,7 +7,7 @@ resource_dir: "img" # Relative URLs are based on this directory.
 # Project management tools
 **(issue trackers)**
 
-*10th draft*
+*final draft*
 
 Mohmmad Mahdi Mohmmadi,
 Saeed Mahjoob

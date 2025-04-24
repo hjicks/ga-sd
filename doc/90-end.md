@@ -1,6 +1,6 @@
 # Summary
 
-s what do we have learned today?
+So what do we have learned today?
 
 ===
 
