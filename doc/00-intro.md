@@ -40,7 +40,7 @@ perhaps the most successful software to date
 they were pretty confident,
 and had set the following goals for their next release
 
-- using OO or and memory safe languages
+- using OO and memory safe languages
 - modern built-in database based file systems
 - enhanced security and graphics
 - and many more features
