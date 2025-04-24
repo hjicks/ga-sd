@@ -24,3 +24,15 @@ source code of this presention is available here:
 5. Name some benefits of project management tools.
 
 These are available in [github](https://github.com/hjicks/ga-sd/issues/6) too ;)
+
+---
+# Sources
+
+- wikipedia for information
+- wikipedia commons for PERT network (modified), GNATS and ganttchart
+- betawiki for windows vista logo
+- logopedia for ms project logo
+- winworld for screenshots of ms project
+- [dirkjan](https://dirkjan.co/) for gifs
+- bugzilla, github, jira and trello sites for their logos respectively
+- trello for trello 101 guide
