@@ -50,16 +50,16 @@ their next release:
 ![people standing](intro/people.gif)
 
 # Story time
-Not all gone well however.
+Not all gone well however
 
 They **missed** their first deadline from **2002**,
-then once again in 2004 and **2006**.
+then once again in 2004 and **2006**
 
 ===
 
-**4 years wasted**.
+**4 years wasted**
 
-It cost them **120 billion dollars**. ([source](https://news.softpedia.com/news/Windows-Vista-the-120-Billion-Operating-System-54843.shtml))
+It cost them **120 billion dollars** ([source](https://news.softpedia.com/news/Windows-Vista-the-120-Billion-Operating-System-54843.shtml))
 
 @(background-color='black' color='white')
 # Story time
