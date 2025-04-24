@@ -17,7 +17,6 @@ source code of this presention is available here:
 4. Which tools offer native code integration besides Jira? <!--refers to 30-compersion.md --> 
 <!-- answer 4 : 
 "Which tools offer native code integration besides Jira?"
-
 ✅ GitHub & GitLab – Both provide native code + issue tracking in one platform (e.g., GitHub’s built-in editor, GitLab’s web IDE).
 ❌ Trello – No native integration; relies on Power-Ups for basic repo links.
 🔗 Jira – Deep links to repos (GitHub/GitLab/Bitbucket) but isn’t "native."
